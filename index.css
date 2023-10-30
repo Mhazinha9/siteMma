@@ -1,1 +1,11 @@
-<img src="imagens/imagem1.jpg" alt="yes-friday.gif">
+body {
+    background: #CCCCCC
+}
+
+ p {
+     tex-align: center;
+ }
+
+ em strong {
+     color: #FF0000;
+ }

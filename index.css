@@ -5,3 +5,10 @@ h1 {
   p {
    style=text-aling: center;font-size: 20px
   }
+  
+  body{
+    background-image:url(https://img.elo7.com.br/product/600x380/33B4A04/kit-20-adesivo-decorativo-patinhas-cao-petshop-gato.jpg;)
+    background- cover; /* Redimensiona a imagem para preencher a tela */
+    background-attachment: fixed; /* Fixa a imagem de fundo, se desejar */
+  }
+   
